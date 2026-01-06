@@ -3,102 +3,58 @@
 <!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rxkz&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff&desc=AI/ML%20Engineer%20in%20Training&descAlignY=55&descSize=20" width="100%"/>
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=800&lines=Transforming+data+into+intelligent+solutions;Healthcare+AI+%7C+Financial+Systems+%7C+Computer+Vision;Building+production-ready+ML+systems;23+years+old+%7C+Auckland%2C+New+Zealand;36+repositories+of+AI%2FML+innovation" alt="Typing SVG" /></a>
-
 <br/>
 
-<!-- Badges with Icons -->
-<img src="https://img.shields.io/badge/Software_Engineering-Second_Year-00D9FF?style=for-the-badge&logo=graduation-cap&logoColor=white" />
-<img src="https://img.shields.io/badge/Yoobee_Colleges-Auckland_NZ-FF6B6B?style=for-the-badge&logo=google-maps&logoColor=white" />
-<img src="https://img.shields.io/badge/Repositories-36-4CAF50?style=for-the-badge&logo=github&logoColor=white" />
-
-<br/><br/>
-
-### 🌱 Learning Mindset
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=2000&color=FFB800&center=true&vCenter=true&width=1000&lines=I+know+nothing.+I'm+always+learning.;Every+project+is+a+lesson.+Every+bug+is+a+teacher.;The+more+I+learn%2C+the+more+I+realize+how+much+I+don't+know.;Committed+to+continuous+growth+and+improvement." alt="Learning Mindset" />
-
+<!-- Learning Mindset Banner with Age -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=2000&color=FFB800&center=true&vCenter=true&width=1000&lines=23+years+old+%7C+Auckland%2C+New+Zealand;I+don't+know+much%2C+but+I+always+TRY;Every+bug+is+a+teacher.+Every+project+is+a+lesson." alt="Learning Mindset" />
 </div>
 
 <br/>
-
-<!-- Matrix Rain Effect -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Current Focus
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> About Me
 
 ```python
 class Rxkz:
     def __init__(self):
+        self.age = 23
         self.role = "AI/ML Engineering Student"
-        self.location = "Auckland, New Zealand 🇳🇿"
-        self.education = "Software Engineering @ Yoobee Colleges"
+        self.location = "Auckland, New Zealand"
+        self.education = "Software Engineering @ Yoobee Colleges (Second Year)"
+        self.work = "Part-time room attendant (2 days/week) - maximizing study time"
+        
         self.current_learning = [
             "Deep Learning Specialization (Month 2)",
-            "Neural Networks & Deep Learning",
-            "Advanced ML System Architecture"
+            "Neural Networks & Optimization Algorithms",
+            "Advanced ML system design",
+            "Model evaluation for real-world constraints"
         ]
-        self.recently_completed = {
-            "Stanford ML Specialization": "100% Done ⭐",
-            "50-Project ML Practice Series": "Completed ✓"
-        }
-        self.github_stats = {
-            "repositories": 36,
-            "focus_areas": ["Healthcare AI", "Financial Systems", "Computer Vision"],
-            "commitment": "Building production-ready AI systems"
-        }
-    
-    def learning_approach(self):
-        return [
-            "📚 Complete coursework",
-            "🔍 Clarify concepts through research",
-            "🛠️ Build practical projects",
-            "✅ Test knowledge with custom assessments",
-            "🔄 Iterate and improve"
+        
+        self.completed = [
+            "Stanford Machine Learning Specialization (100% Score)",
+            "50+ ML projects across multiple domains",
+            "Healthcare AI, Financial Systems, Computer Vision"
+        ]
+        
+        self.approach = [
+            "Study fundamentals thoroughly",
+            "Build projects that solve real problems",
+            "Debug relentlessly (most of the time I don't know, but I always TRY)",
+            "Document and share learnings",
+            "Code with AI assistance while understanding the why"
         ]
     
-    def current_mission(self):
-        return "Trying to Transform theoretical knowledge into deployable AI solutions"
+    def mission(self):
+        return "Transform ML theory into production-ready systems"
+    
+    def current_mindset(self):
+        return "I know nothing. I'm always learning. And that's the point."
 ```
-
-<div align="center">
-
-### 💫 Learning Philosophy
-
-**Build → Debug → Optimize → Deploy → Repeat**
-
-</div>
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Technical Arsenal
-
-<details open>
-<summary><b>🤖 Machine Learning & AI</b></summary>
-<br/>
-
-<div align="center">
-
-| Skill | Proficiency | Projects |
-|-------|-------------|----------|
-| **Supervised Learning** | ![](https://geps.dev/progress/95?dangerColor=00D9FF&warningColor=00D9FF&successColor=00D9FF) | 12+ |
-| **Deep Learning** | ![](https://geps.dev/progress/80?dangerColor=00D9FF&warningColor=00D9FF&successColor=00D9FF) | 8+ |
-| **Reinforcement Learning** | ![](https://geps.dev/progress/75?dangerColor=00D9FF&warningColor=00D9FF&successColor=00D9FF) | 3+ |
-| **Computer Vision** | ![](https://geps.dev/progress/80?dangerColor=00D9FF&warningColor=00D9FF&successColor=00D9FF) | 6+ |
-| **NLP & RAG Systems** | ![](https://geps.dev/progress/70?dangerColor=00D9FF&warningColor=00D9FF&successColor=00D9FF) | 4+ |
-
-</div>
-
-</details>
-
-<details open>
-<summary><b>⚡ Tech Stack</b></summary>
-<br/>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Technical Skills
 
 <div align="center">
 
@@ -124,15 +80,26 @@ class Rxkz:
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 
-**Specializations**
+**Core Competencies**
 
-<img src="https://img.shields.io/badge/Class_Imbalance_Handling-FF6B6B?style=for-the-badge&logo=buffer&logoColor=white" />
-<img src="https://img.shields.io/badge/Feature_Engineering-4CAF50?style=for-the-badge&logo=scipy&logoColor=white" />
-<img src="https://img.shields.io/badge/Model_Optimization-9C27B0?style=for-the-badge&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/Supervised_Learning-4CAF50?style=for-the-badge&logo=robot&logoColor=white" />
+<img src="https://img.shields.io/badge/Deep_Learning-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Computer_Vision-9C27B0?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/NLP_&_RAG-00D9FF?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Feature_Engineering-FFB800?style=for-the-badge&logo=scipy&logoColor=white" />
 
 </div>
 
-</details>
+**Machine Learning & AI Expertise:**
+- Supervised Learning (Classification, Regression, Ensemble Methods)
+- Deep Learning (Neural Networks, CNNs, Optimization)
+- Reinforcement Learning (Q-Learning, DQN)
+- Computer Vision (Image Classification, Object Detection)
+- NLP & RAG Systems (Text Processing, Vector Databases)
+- Production Practices (Feature Engineering, Class Imbalance, Model Evaluation)
+
+*I type and code everything myself. AI assists my learning, but every line is written and understood by me.*
+
 
 ---
 
@@ -259,46 +226,18 @@ Full-stack recruitment automation using retrieval-augmented generation with Flas
 ---
 -->
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> Project Distribution
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> Project Portfolio
 
-<div align="center">
+**36 repositories** across multiple AI/ML domains:
+- **Healthcare AI:** 5 projects (Medical dosage optimization, Disease diagnosis from X-rays)
+- **Financial Systems:** 3 projects (Fraud detection, Risk analysis)
+- **Business Intelligence:** 3 projects (Customer segmentation, RFM analysis)
+- **Public Safety:** 2 projects (Traffic accident severity prediction)
+- **NLP & RAG Systems:** 2 projects (AI-powered hiring assistant, Document processing)
 
-```mermaid
-%%{init: {'theme':'dark', 'themeVariables': { 'pie1':'#FF6B6B', 'pie2':'#4CAF50', 'pie3':'#00D9FF', 'pie4':'#FFB800', 'pie5':'#9C27B0'}}}%%
-pie title Project Domains
-    "Healthcare AI" : 5
-    "Financial Systems" : 3
-    "Business Intelligence" : 3
-    "Public Safety" : 2
-    "NLP & RAG Systems" : 2
-```
-
-<table>
-<tr>
-<td width="33%" align="center">
-<img src="https://img.shields.io/badge/Healthcare_AI-5_Projects-FF6B6B?style=for-the-badge&logo=heart&logoColor=white" />
-</td>
-<td width="33%" align="center">
-<img src="https://img.shields.io/badge/Financial_Systems-3_Projects-2ECC71?style=for-the-badge&logo=dollar-sign&logoColor=white" />
-</td>
-<td width="33%" align="center">
-<img src="https://img.shields.io/badge/Business_Intelligence-3_Projects-3498DB?style=for-the-badge&logo=bar-chart&logoColor=white" />
-</td>
-</tr>
-<tr>
-<td width="33%" align="center">
-<img src="https://img.shields.io/badge/Public_Safety-2_Projects-FFB800?style=for-the-badge&logo=shield-alt&logoColor=white" />
-</td>
-<td width="33%" align="center">
-<img src="https://img.shields.io/badge/NLP_&_RAG-2_Projects-9C27B0?style=for-the-badge&logo=openai&logoColor=white" />
-</td>
-<td width="33%" align="center">
-<img src="https://img.shields.io/badge/Total-36_Repos-00D9FF?style=for-the-badge&logo=github&logoColor=white" />
-</td>
-</tr>
-</table>
-
-</div>
+<!-- Featured projects section commented out until repositories are public
+Full project details will be added when university work is publicly available
+-->
 
 ---
 
@@ -367,120 +306,27 @@ timeline
 ---
 -->
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> GitHub Activity
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="35"> Why This Matters
 
-<div align="center">
+I'm not building projects to fill a portfolio — I'm trying to  solve problems I find interesting while learning how ML systems actually work. Every project tackles real challenges: imbalanced datasets, messy data, evaluation metrics that matter in production, and systems that need to scale.
 
-### 📊 Repository Overview
+**My approach combines:**
+- Theoretical foundations from structured learning ( specializations, Done)
+- Hands-on problem-solving with real datasets and production constraints
+- Honest iteration and debugging (I don't pretend to know what I'm still learning Most of the time I still dont know anything but i always TRY )
+- Building with AI assistance while understanding the "why" behind every decision
 
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Total_Repos-36-00D9FF?style=for-the-badge&logo=github" />
-<br/><br/>
-**Total Repositories**
-<br/>
-Diverse AI/ML projects across multiple domains
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Active_Projects-15+-4CAF50?style=for-the-badge&logo=checkmarx" />
-<br/><br/>
-**Active Development**
-<br/>
-Continuously building and improving
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Code_Quality-Learning-FFB800?style=for-the-badge&logo=code" />
-<br/><br/>
-**Learning & Building**
-<br/>
-Coded with AI assistance - still learning
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Documentation-Comprehensive-9C27B0?style=for-the-badge&logo=read-the-docs" />
-<br/><br/>
-**Well Documented**
-<br/>
-Clear explanations and examples
-</td>
-</tr>
-</table>
-
-### 💻 Recent Focus Areas
-
-<img src="https://img.shields.io/badge/Healthcare_AI-Active-FF6B6B?style=flat-square&logo=heart" />
-<img src="https://img.shields.io/badge/Deep_Learning-Learning-00D9FF?style=flat-square&logo=tensorflow" />
-<img src="https://img.shields.io/badge/Computer_Vision-Building-9C27B0?style=flat-square&logo=opencv" />
-<img src="https://img.shields.io/badge/NLP_Systems-Exploring-4CAF50?style=flat-square&logo=openai" />
-<img src="https://img.shields.io/badge/MLOps-Upcoming-FFB800?style=flat-square&logo=docker" />
-
-</div>
+I'm 23, still learning, and actively seeking opportunities to contribute to AI/ML teams where I can keep growing.
 
 ---
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="35"> Development Philosophy
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Connect
 
 <div align="center">
 
-### 💡 Core Principles
+I'm actively seeking opportunities to contribute to AI/ML teams where I can keep growing.
 
-</div>
-
-```
-                      ┌─────────────────────────────────────────────────────────────────┐
-                      │                                                                 │
-                      │   🎯  BUILD → 🔍 DEBUG → ⚡ OPTIMIZE → 🚀 DEPLOY → 🔄 ITERATE  │
-                      │                                                                 │
-                      └─────────────────────────────────────────────────────────────────┘
-```
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### 🎯 Real-World Focus
-
-I believe in learning by building real-world applications that solve actual problems. Every project tackles genuine challenges—from healthcare optimization to fraud detection—using production-grade practices.
-
-**Key Practices:**
-- ✨ Handle class imbalance in real datasets
-- 🔧 Engineer features from messy data
-- 📊 Implement appropriate evaluation metrics
-- 🏗️ Design scalable architectures
-
-</td>
-<td width="50%" valign="top">
-
-#### 🚀 Theory Meets Practice
-
-My approach combines theoretical rigor from Stanford's specializations with hands-on problem-solving, ensuring I don't just understand algorithms but can deploy them effectively.
-
-**Learning Loop:**
-- 📚 Master theoretical foundations
-- 💻 Implement from scratch
-- 🧪 Test on real datasets
-- 📈 Optimize for production
-- 🔄 Share knowledge
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-> **"The goal is not to predict the future, but to build it."**
-> 
-> *Currently building the foundation for tomorrow's AI systems*
-
-</div>
-
----
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Let's Connect
-
-<div align="center">
-
-I'm actively seeking opportunities to contribute to AI/ML projects and collaborate with other developers passionate about building intelligent systems.
+<br/>
 
 <a href="mailto:rxkz.xv@icloud.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -494,15 +340,11 @@ I'm actively seeking opportunities to contribute to AI/ML projects and collabora
 
 <br/><br/>
 
-**🌟 Open to:**
-- AI/ML Engineering Roles
-- Research Collaborations
-- Open Source Contributions
-- Technical Discussions
+**Open to:** AI/ML Engineering Roles • Research Collaborations • Open Source Contributions • Technical Mentorship
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=rxkz&label=Profile%20Views&color=00D9FF&style=for-the-badge" />
+
 
 </div>
 
@@ -510,13 +352,9 @@ I'm actively seeking opportunities to contribute to AI/ML projects and collabora
 
 <div align="center">
 
-### 🎓 Current Status
+**Last Updated:** January 2026 | **Repositories:** 36 | **Status:** Always learning
 
-<img src="https://img.shields.io/badge/Status-Student-00D9FF?style=for-the-badge&logo=google-scholar&logoColor=white" />
-<img src="https://img.shields.io/badge/Location-Auckland_NZ-FF6B6B?style=for-the-badge&logo=google-maps&logoColor=white" />
-<img src="https://img.shields.io/badge/Availability-Open_to_Opportunities-4CAF50?style=for-the-badge&logo=handshake&logoColor=white" />
-
-**Last Updated:** January 2026
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
